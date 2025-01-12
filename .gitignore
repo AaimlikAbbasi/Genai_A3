@@ -1,0 +1,19 @@
+/data
+/__pycache__
+/q1/__pycache__
+/q1/umc005-corpus (1)
+/q1/checkpoints
+/spm_en.model
+/spm_en.vocab
+/q1/umc005-corpus
+/q1/umc005-corpus (2)
+/spm_ur.model
+/spm_ur.vocab
+/tokenized_test.pkl
+/tokenized_train.pkl
+/spm_ur_input.txt
+/spm_en_input.txt
+/spm_ur_input.model
+/test.ur
+/test.en
+/train.ur

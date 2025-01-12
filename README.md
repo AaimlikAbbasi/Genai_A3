@@ -1,5 +1,39 @@
 # Genai_A3
 Development of a generative AI model for English-to-Urdu machine translation, leveraging the UMC005 corpus, and evaluating CNN and Vision Transformer architectures for CIFAR-10 image classification.
+# **English-to-Urdu Machine Translation and CIFAR-10 Image Classification**
+
+## **Project Description**
+
+This repository focuses on two key areas:
+
+1. **English-to-Urdu Machine Translation**:
+   - Development of a **generative AI model** for translating English to Urdu using the **UMC005 corpus**.
+   - The project incorporates advanced NLP techniques, including preprocessing with **SentencePiece Tokenizer** and leveraging Transformer-based architectures for high-quality translation.
+
+2. **Image Classification on CIFAR-10**:
+   - Comparative analysis of three deep learning architectures:
+     - **ResNet with Transfer Learning**
+     - **Vision Transformer (ViT)**
+     - **Hybrid CNN-MLP**
+   - The models are trained and evaluated on the **CIFAR-10 dataset**, highlighting their performance in terms of accuracy and efficiency.
+
+---
+
+## **Key Features**
+
+### **English-to-Urdu Machine Translation**
+- Uses the **UMC005 Parallel Corpus** for training and evaluation.
+- Implements preprocessing steps, including tokenization with **SentencePiece**.
+- Includes scripts for training, evaluation, and deployment of the Transformer model.
+
+### **CIFAR-10 Image Classification**
+- Explores performance differences across ResNet, Vision Transformer, and Hybrid CNN-MLP models.
+- Provides visualization of training loss and accuracy curves for all models.
+
+---
+Visualizations
+Loss Curve
+
 
 ![loss_curve](https://github.com/user-attachments/assets/a0c0863a-2611-4931-989f-1da0ba9416b4)
 

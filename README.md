@@ -52,11 +52,11 @@ Loss Curve
 
 <img width="733" alt="Screenshot 2025-01-12 145853" src="https://github.com/user-attachments/assets/d196822c-2adf-41d5-9c6c-308ffa0600b6" />
 
-### ****
+
 
 <img width="175" alt="Screenshot 2025-01-12 144659" src="https://github.com/user-attachments/assets/67cc943b-741b-4f31-988f-50a1e0600d4d" />
 
-### **result **
+### **result**
 
 <img width="887" alt="Screenshot 2025-01-12 150136" src="https://github.com/user-attachments/assets/e47ec88f-bd4d-4fd5-a021-dc2fc5ebe14c" />
 

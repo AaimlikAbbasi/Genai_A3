@@ -44,6 +44,7 @@ Loss Curve
 
 --<img width="644" alt="Screenshot 2025-01-12 145951" src="https://github.com/user-attachments/assets/ab3addfb-bac5-4186-ac0c-36dee42d52f9" />
 
+### **CONFUSION MATRIX**
 
 <img width="659" alt="Screenshot 2025-01-12 145921" src="https://github.com/user-attachments/assets/1a81928a-e124-4213-ac00-499a887ebc8b" />
 
